@@ -39,6 +39,10 @@
     * <b> TombolClear dan Resfresh masih memilikifungsi yang sama, saya masih kesusahan untuk membuat tombol clear dapat menghapus semua daata yang ada
     
        ![clear refresh sama](https://cloud.githubusercontent.com/assets/22114252/24038111/a5d7cde8-0b32-11e7-9a1f-f111535feee1.PNG)
+       
+    * <b> Tombol Print </b>
+       
+       ![print](https://cloud.githubusercontent.com/assets/22114252/24038101/a58d0ede-0b32-11e7-9fda-f6553d612eb1.PNG)
         
 3. Identitas     = 
     
