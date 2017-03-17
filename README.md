@@ -42,7 +42,7 @@
        
     * <b> Tombol Print </b>
        
-       ![print](https://cloud.githubusercontent.com/assets/22114252/24038101/a58d0ede-0b32-11e7-9fda-f6553d612eb1.PNG)
+       ![print](https://cloud.githubusercontent.com/assets/22114252/24038101/a58d0ede-0b32-11e7-9fda-f6553d612eb1.PNG)</b> </b> </b> </b>
         
 3. Identitas     = 
     
