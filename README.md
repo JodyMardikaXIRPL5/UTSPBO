@@ -12,7 +12,7 @@
     
       ![signin akun tidak terdaftar](https://cloud.githubusercontent.com/assets/22114252/24038102/a58fcb10-0b32-11e7-97af-7b81e83af9a4.PNG)
     
-    * <b> SignUp
+    * <b> SignUp </b>
       
       ![signup](https://cloud.githubusercontent.com/assets/22114252/24038104/a59537da-0b32-11e7-85a5-b2a443aec42d.PNG) <b>
       
@@ -36,7 +36,7 @@
     
        ![delete 2](https://cloud.githubusercontent.com/assets/22114252/24038110/a5cfd610-0b32-11e7-9529-ecd45bc1eb40.PNG)
        
-    * <b> TombolClear dan Resfresh masih memilikifungsi yang sama, saya masih kesusahan untuk membuat tombol clear dapat menghapus semua daata yang ada
+    * <b> TombolClear dan Resfresh masih memilikifungsi yang sama, saya masih kesusahan untuk membuat tombol clear dapat menghapus semua daata yang ada </b>
     
        ![clear refresh sama](https://cloud.githubusercontent.com/assets/22114252/24038111/a5d7cde8-0b32-11e7-9a1f-f111535feee1.PNG)
        
